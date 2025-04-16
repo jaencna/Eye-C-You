@@ -31,9 +31,13 @@ Technology Used
 • Battery-powered or vehicle-powered setup
 
 Use Cases
+
 • Jeepney, taxi, and tricycle drivers
+
 • Long-distance truck drivers
+
 • Driving schools for safety training
+
 • Personal vehicles used for frequent travel
 
 
